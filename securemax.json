@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c33e3e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "marker-detail": "SJC Security Control Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.683071732521057,
+          -33.874410764660425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.677868247032166,
+          -33.87140880437176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67723328869629,
+          -33.87023293358253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.673710823059082,
+            -33.87871754701147
+          ],
+          [
+            18.678946495056152,
+            -33.877506147265024
+          ],
+          [
+            18.677444458007812,
+            -33.87454883447813
+          ],
+          [
+            18.673667907714844,
+            -33.87707859030756
+          ],
+          [
+            18.673667907714844,
+            -33.878575030286804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.677337169647217,
+          -33.871279637539146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.676950931549072,
+          -33.87263365255229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67825984954834,
+          -33.87286525823222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.680180311203003,
+          -33.87250003360491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c33e3e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "marker-detail": "SJC Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.68293762207031,
+          -33.876561956125954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.678345680236816,
+          -33.87743488792087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.675577640533447,
+          -33.8765797711498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#53a1bc",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "marker-detail": "B de Wit",
+        "client-id": 2113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67401123046875,
+          -33.87755959173408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2bb036",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.67551326751709,
+              -33.878232098442645
+            ],
+            [
+              18.675679564476013,
+              -33.878232098442645
+            ],
+            [
+              18.675679564476013,
+              -33.87810516877426
+            ],
+            [
+              18.67551326751709,
+              -33.87810516877426
+            ],
+            [
+              18.67551326751709,
+              -33.878232098442645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c33e3e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "marker-detail": "SJC Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.675620555877682,
+          -33.87816974705018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#63d735",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.681349754333496,
+              -33.873952014952515
+            ],
+            [
+              18.681585788726807,
+              -33.873952014952515
+            ],
+            [
+              18.681585788726807,
+              -33.87375604345185
+            ],
+            [
+              18.681349754333496,
+              -33.87375604345185
+            ],
+            [
+              18.681349754333496,
+              -33.873952014952515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c33e3e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "marker-detail": "SJC Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.68151068687439,
+          -33.873854029258425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "prison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.674569129943848,
+          -33.87223279508263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1c53ac",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.684675693511963,
+          -33.87143107449557
+        ]
+      }
+    }
+  ]
+}
