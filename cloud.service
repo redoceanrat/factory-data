@@ -39,7 +39,8 @@
         "marker-color": "#c32f2f",
         "marker-size": "medium",
         "marker-symbol": "industrial",
-        "marker_detail": "Gear Pump Manufacturing"
+        "marker_detail": "",
+        "marker-detail": "Gear Pump Manufacturing"
       },
       "geometry": {
         "type": "Point",
