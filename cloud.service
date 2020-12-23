@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#150e0e",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "marker-detail": "FactoryMax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.842915296554562,
+          -34.11866186413278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c33e3e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "marker-detail": "SJC Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.683071732521057,
+          -33.874410764660425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c32f2f",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "marker_detail": "Gear Pump Manufacturing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.523839712142944,
+          -33.93517328619621
+        ]
+      }
+    }
+  ]
+}
